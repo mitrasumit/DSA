@@ -12,7 +12,11 @@ internal class Program
         /* SumOfn obj=new SumOfn();
         Console.WriteLine(obj.calculate(5)); */
 
-        Factorial obj=new Factorial();
-        Console.WriteLine(obj.calculate(5));
+       /*  Factorial obj=new Factorial();
+        Console.WriteLine(obj.calculate(5)); */
+
+        PrintSeries obj=new PrintSeries();
+        obj.printInOrder(5);
+        //obj.printInReverse(5);
         }
     }
