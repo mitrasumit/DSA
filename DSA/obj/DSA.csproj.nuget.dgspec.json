@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\dsa\\DSA.csproj": {}
+    "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\DSA\\DSA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\dsa\\DSA.csproj": {
+    "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\DSA\\DSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\dsa\\DSA.csproj",
+        "projectUniqueName": "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\DSA\\DSA.csproj",
         "projectName": "DSA",
-        "projectPath": "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\dsa\\DSA.csproj",
+        "projectPath": "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\DSA\\DSA.csproj",
         "packagesPath": "C:\\Users\\mitra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\dsa\\obj\\",
+        "outputPath": "C:\\Users\\mitra\\OneDrive\\Desktop\\DSA\\DSA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mitra\\AppData\\Roaming\\NuGet\\NuGet.Config",
